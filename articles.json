@@ -2,19 +2,91 @@
   {
     "banner": "/assets/images/event-banners/rockstar.jpg",
     "name": "Rust in Game Development",
-    "description": "Join us as we unravel and delve into the use of Rust in the creation of our most popular franchises",
+    "description": "Join us as we unravel and delve into the use of Rust in the creation of our most popular franchises.",
     "article_link": "/",
     "date": "2025-07-10T17:23:07.675Z",
     "authors": [
       { "name": "Akin Aguda", "image": "/assets/images/speakers/akin.png" },
-      {
-        "name": "Bekka",
-        "image": "/assets/images/speakers/bekka.png"
-      },
-      {
-        "name": "Chinedu",
-        "image": "/assets/images/speakers/chinedu.png"
-      }
+      { "name": "Bekka", "image": "/assets/images/speakers/bekka.png" },
+      { "name": "Chinedu", "image": "/assets/images/speakers/chinedu.png" }
+    ]
+  },
+  {
+    "banner": "/assets/images/event-banners/rockstar.jpg",
+    "name": "Building Reliable Backends with Rust",
+    "description": "Explore how Rust’s safety and concurrency model make it perfect for backend development and scalable web services.",
+    "article_link": "/",
+    "date": "2025-03-15T14:12:21.235Z",
+    "authors": [
+      { "name": "Akin Aguda", "image": "/assets/images/speakers/akin.png" },
+      { "name": "Chinedu", "image": "/assets/images/speakers/chinedu.png" }
+    ]
+  },
+  {
+    "banner": "/assets/images/event-banners/rockstar.jpg",
+    "name": "Zero-Cost Abstractions: Myth or Reality?",
+    "description": "A deep dive into Rust’s zero-cost abstractions and how they shape modern systems programming.",
+    "article_link": "/",
+    "date": "2025-01-28T11:03:45.000Z",
+    "authors": [
+      { "name": "Bekka", "image": "/assets/images/speakers/bekka.png" },
+      { "name": "Akin Aguda", "image": "/assets/images/speakers/akin.png" }
+    ]
+  },
+  {
+    "banner": "/assets/images/event-banners/rockstar.jpg",
+    "name": "Async in Rust: Beyond the Await",
+    "description": "Discover the evolution of async programming in Rust, from futures to tokio and beyond.",
+    "article_link": "/",
+    "date": "2025-04-19T09:47:31.500Z",
+    "authors": [
+      { "name": "Chinedu", "image": "/assets/images/speakers/chinedu.png" },
+      { "name": "Bekka", "image": "/assets/images/speakers/bekka.png" }
+    ]
+  },
+  {
+    "banner": "/assets/images/event-banners/rockstar.jpg",
+    "name": "Wasm + Rust: The Web’s New Power Duo",
+    "description": "See how Rust is changing the face of web applications with lightning-fast WebAssembly.",
+    "article_link": "/",
+    "date": "2025-09-02T18:22:11.120Z",
+    "authors": [
+      { "name": "Akin Aguda", "image": "/assets/images/speakers/akin.png" },
+      { "name": "Bekka", "image": "/assets/images/speakers/bekka.png" }
+    ]
+  },
+  {
+    "banner": "/assets/images/event-banners/rockstar.jpg",
+    "name": "Rust for Embedded Systems",
+    "description": "From IoT to robotics, learn how Rust ensures safety and efficiency in resource-constrained environments.",
+    "article_link": "/",
+    "date": "2025-05-30T15:09:18.009Z",
+    "authors": [
+      { "name": "Chinedu", "image": "/assets/images/speakers/chinedu.png" },
+      { "name": "Akin Aguda", "image": "/assets/images/speakers/akin.png" }
+    ]
+  },
+  {
+    "banner": "/assets/images/event-banners/rockstar.jpg",
+    "name": "Memory Safety: The Rust Way",
+    "description": "Explore how Rust achieves memory safety without garbage collection and what that means for developers.",
+    "article_link": "/",
+    "date": "2025-10-11T12:54:57.900Z",
+    "authors": [
+      { "name": "Bekka", "image": "/assets/images/speakers/bekka.png" },
+      { "name": "Chinedu", "image": "/assets/images/speakers/chinedu.png" }
+    ]
+  },
+  {
+    "banner": "/assets/images/event-banners/rockstar.jpg",
+    "name": "Open Source and the Rust Ecosystem",
+    "description": "Meet the community driving Rust forward and learn how to get involved in the ecosystem.",
+    "article_link": "/",
+    "date": "2025-12-22T20:40:33.555Z",
+    "authors": [
+      { "name": "Akin Aguda", "image": "/assets/images/speakers/akin.png" },
+      { "name": "Bekka", "image": "/assets/images/speakers/bekka.png" },
+      { "name": "Chinedu", "image": "/assets/images/speakers/chinedu.png" }
     ]
   }
 ]
